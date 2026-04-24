@@ -1,3 +1,5 @@
-/.venv/
+/agent/.venv/
+
+/mcp_server/.venv/
 
 /__pycache__/
